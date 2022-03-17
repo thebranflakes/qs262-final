@@ -5,7 +5,7 @@ function getRandomInt(max) {
 
 
 function MovieTable({ movies }) {
-    let num = getRandomInt(16);
+    let num = getRandomInt(21);
     var link = "https://www.imdb.com/title/"
     let imdb = movies[num].imdbLink
     let final = link + imdb
