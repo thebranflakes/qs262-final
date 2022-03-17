@@ -19,12 +19,7 @@ const movies = [
 	{ id: 18, title: 'The Watermelon Woman', language: 'English', imdbLink: 'tt0118125' },
 	{ id: 19, title: 'A Fantastic Woman', language: 'Spanish', imdbLink: 'tt5639354' },
 	{ id: 20, title: 'Disclosure', language: 'English', imdbLink: 'tt8637504' },
-	{ id: 21, title: 'God\'s Own Country', language: 'English', imdbLink: 'tt5635086' },
-	{ id: 22, title: 'Moonlight', language: 'English', imdbLink: 'tt4975722' },
-	{ id: 23, title: 'Moonlight', language: 'English', imdbLink: 'tt4975722' },
-	{ id: 24, title: 'Moonlight', language: 'English', imdbLink: 'tt4975722' },
-	{ id: 25, title: 'Moonlight', language: 'English', imdbLink: 'tt4975722' },
-	{ id: 26, title: 'Moonlight', language: 'English', imdbLink: 'tt4975722' },
+	{ id: 21, title: 'God\'s Own Country', language: 'English', imdbLink: 'tt5635086' }
 ];
 
 export default movies;
