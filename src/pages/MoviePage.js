@@ -5,7 +5,10 @@ function MoviePage({ movies }) {
         <>
         <article className="App-article">
             <h2>Random film or short film for you to enjoy!</h2>
-            <MovieTable movies={movies} />       
+            <MovieTable movies={movies} /> 
+            <form>
+            <a href="page URL"><button>Random</button></a>
+            </form>
         </article>
         </>
     );
